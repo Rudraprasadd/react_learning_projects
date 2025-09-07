@@ -9,9 +9,6 @@ function App() {
   // let Counter = 20
 
   const addValue = () =>{
-      // console.log("value added",Math.random());
-      // console.log("clicked",Counter);
-      //Counter = Counter+1
 
       if(Counter<20){
         setCounter(Counter+1)
